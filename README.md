@@ -39,3 +39,4 @@ Expected output:
 ```bash
     pip3 install -r requirements.txt
 ```
+In the notebook, use `device = torch.device("mps")`
